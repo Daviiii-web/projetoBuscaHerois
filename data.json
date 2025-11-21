@@ -1,0 +1,383 @@
+ [
+ {
+    "nome": "Homem-Aranha",
+    "historia": "Peter Parker, um estudante do ensino médio, ganha poderes aracnídeos após ser mordido por uma aranha radioativa. Ele decide usar seus poderes para combater o crime em Nova York, adotando a identidade do Homem-Aranha.",
+    "curiosidades": "Ele já se tornou o líder dos Vingadores e também dos Fantastic Four (por um curto período).",
+    "poderes": [
+        "Agilidade sobre-humana",
+        "Força sobre-humana",
+        "Sentido Aranha",
+        "Capacidade de escalar paredes"
+    ],
+    "inimigos": [
+        "Duende Verde",
+        "Dr. Octopus",
+        "Homem-Areia",
+        "Venom"
+    ],
+    "imagem": "https://i0.wp.com/www.crossovernerd.com/wp-content/uploads/2022/02/Guia_leitura_cronologico_homem_Aranha_Capa.jpg?fit=1920%2C1080&ssl=1",
+    "quadrinhos": ["A Morte de Gwen Stacy", "A Última Caçada de Kraven", "Homem-Aranha: Azul"],
+    "jogos": ["Marvel's Spider-Man (PS4/PS5)", "Spider-Man: Miles Morales (PS4/PS5)", "Ultimate Spider-Man (PS2/PC)"]
+ },
+ {
+    "nome": "Thor",
+    "historia": "Thor Odinson é o deus do trovão e príncipe de Asgard. Exilado na Terra por seu pai Odin devido à sua arrogância, ele aprende a ser um verdadeiro herói e se torna um dos membros fundadores dos Vingadores.",
+    "curiosidades": "O martelo de Thor, Mjolnir, foi forjado no coração de uma estrela moribunda e só pode ser empunhado por aqueles que são considerados 'dignos'.",
+    "poderes": [
+        "Força e durabilidade sobre-humanas",
+        "Controle sobre o clima e relâmpagos",
+        "Voo (com Mjolnir ou Stormbreaker)",
+        "Longevidade"
+    ],
+    "inimigos": [
+        "Loki",
+        "Hela",
+        "Malekith",
+        "Surtur"
+    ],
+    "imagem": "https://www.einerd.com.br/wp-content/uploads/2024/11/thor.jpg",
+    "quadrinhos": ["O Renascer dos Deuses", "O Carniceiro dos Deuses", "A Saga de Surtur"],
+    "jogos": ["Marvel's Avengers", "Thor: God of Thunder", "LEGO Marvel Super Heroes"]
+ },
+ {
+    "nome": "Homem de Ferro",
+    "historia": "Tony Stark, um gênio bilionário, inventor e filantropo, constrói uma armadura de alta tecnologia após ser sequestrado. Ele usa a armadura para se tornar o Homem de Ferro, um super-herói dedicado a proteger o mundo.",
+    "curiosidades": "A primeira armadura do Homem de Ferro foi construída em uma caverna, com uma 'caixa de restos' de tecnologia militar.",
+    "poderes": [
+        "Intelecto genial",
+        "Armadura motorizada com força e durabilidade aprimoradas",
+        "Voo",
+        "Arsenal de armas de energia"
+    ],
+    "inimigos": [
+        "Mandarim",
+        "Obadiah Stane (Monge de Ferro)",
+        "Justin Hammer",
+        "Whiplash"
+    ],
+    "imagem": "https://www.epipoca.com.br/wp-content/uploads/2021/07/invincible-iron-man-600-1111851-1280x0-1.jpg",
+    "quadrinhos": ["O Demônio na Garrafa", "Extremis", "Guerra das Armaduras"],
+    "jogos": ["Iron Man (2008)", "Marvel's Avengers", "Fortnite (como personagem jogável)"]
+ },
+ 
+ {
+    "nome": "Capitão América",
+    "historia": "Steve Rogers, um jovem franzino, mas de coração valente, foi submetido a um experimento com o 'Soro do Super-Soldado' durante a Segunda Guerra Mundial. Ele se tornou o Capitão América, o auge do potencial humano, e um símbolo de liberdade.",
+    "curiosidades": "Seu escudo, feito de Vibranium, é virtualmente indestrutível e foi um presente do pai de Tony Stark, Howard Stark.",
+    "poderes": [
+        "Força, agilidade e resistência no pico humano",
+        "Mestre em táticas e combate corpo a corpo",
+        "Envelhecimento retardado",
+        "Liderança inspiradora"
+    ],
+    "inimigos": [
+        "Caveira Vermelha",
+        "Barão Zemo",
+        "Soldado Invernal (anteriormente)",
+        "Hydra"
+    ],
+    "imagem": "https://ovicio.com.br/wp-content/uploads/2022/04/20220407-ovicio-capitao-america-marvel.jpg",
+    "quadrinhos": ["O Soldado Invernal", "Guerra Civil", "A Morte do Capitão América"],
+    "jogos": ["Captain America: Super Soldier", "Marvel's Avengers", "Disney Infinity: Marvel Super Heroes"]
+ },
+ {
+    "nome": "Rocket Raccoon",
+    "historia": "Um guaxinim geneticamente modificado e aprimorado ciberneticamente, Rocket é um mercenário e mestre em armas. Apesar de sua atitude sarcástica, ele tem um forte senso de lealdade para com seus amigos, os Guardiões da Galáxia.",
+    "curiosidades": "Rocket é o único de sua espécie e odeia ser chamado de 'guaxinim'. Ele se considera um ser único.",
+    "poderes": [
+        "Intelecto genial e estrategista tático",
+        "Especialista em armas e explosivos",
+        "Sentidos aguçados",
+        "Agilidade e reflexos aprimorados"
+    ],
+    "inimigos": [
+        "Thanos",
+        "Ronan, o Acusador",
+        "Taserface",
+        "Alto Evolucionário"
+    ],
+    "imagem": "https://lumiere-a.akamaihd.net/v1/images/av4_characters_rocket_4e6ecff2.jpeg?region=0,38,600,600",
+    "quadrinhos": ["Guardiões da Galáxia (2008)", "Aniquilação: A Conquista", "Rocket Raccoon (2014)"],
+    "jogos": ["Marvel's Guardians of the Galaxy", "Ultimate Marvel vs. Capcom 3", "LEGO Marvel Super Heroes 2"]
+ },
+ {
+    "nome": "Groot",
+    "historia": "Groot é uma criatura senciente com aparência de árvore, originária do Planeta X. Ele é o companheiro inseparável de Rocket e um membro dos Guardiões da Galáxia. Sua fala é limitada à frase 'Eu sou Groot', mas com diferentes entonações.",
+    "curiosidades": "Groot pode regenerar seu corpo inteiro a partir de um único galho, o que o torna praticamente imortal.",
+    "poderes": [
+        "Força sobre-humana",
+        "Durabilidade extrema",
+        "Capacidade de regeneração",
+        "Manipulação de plantas e crescimento corporal"
+    ],
+    "inimigos": [
+        "Thanos",
+        "Ronan, o Acusador",
+        "Nebula (anteriormente)",
+        "O Colecionador"
+    ],
+    "imagem": "https://cdn.mos.cms.futurecdn.net/UwtdPjoRydP6Aa9GMGvZkg.jpg",
+    "quadrinhos": ["Guardiões da Galáxia (2008)", "Aniquilação: A Conquista", "Groot (2015)"],
+    "jogos": ["Marvel's Guardians of the Galaxy", "Disney Infinity: Marvel Super Heroes", "Fortnite (como personagem jogável)"]
+ },
+ {
+    "nome": "Doutor Estranho",
+    "historia": "Dr. Stephen Strange era um neurocirurgião brilhante, mas arrogante, que perdeu o uso das mãos em um acidente de carro. Em busca de uma cura, ele viaja para o leste e se torna o Mago Supremo, protetor da Terra contra ameaças místicas.",
+    "curiosidades": "Ele reside no Sanctum Sanctorum em Nova York, um nexo de energias místicas e lar de artefatos poderosos como o Olho de Agamotto.",
+    "poderes": [
+        "Feitiçaria e manipulação de magia",
+        "Viagem dimensional e astral",
+        "Criação de escudos e ilusões",
+        "Manipulação do tempo (com o Olho de Agamotto)"
+    ],
+    "inimigos": [
+        "Dormammu",
+        "Barão Mordo",
+        "Kaecilius",
+        "Shuma-Gorath"
+    ],
+    "imagem": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmrQ69fKbEjDt0xR-8TNdrnKj-D07rZMx5qrXKERxyhLU5n0lw-4UNK5cwNrbyYyxdEA-Tys6i6z6jwM4rBuLvYe9WOz7iwzI2-HtdaNUzv1G6gEYSJ6okIKKz_mEXCb22PlProeLCrG4/s1600/Doutor+Estranho.jpeg",
+    "quadrinhos": ["O Juramento", "Doutor Estranho & Doutor Destino: Triunfo e Tormento", "Strange Tales"],
+    "jogos": ["Marvel's Midnight Suns", "Marvel Ultimate Alliance 3", "Doctor Strange (jogo de 2016)"]
+ },
+ {
+    "nome": "Demolidor",
+    "historia": "Matt Murdock ficou cego em um acidente na infância que também aprimorou seus outros sentidos a níveis sobre-humanos. De dia, ele é um advogado que luta pela justiça. À noite, ele é o Demolidor, o vigilante que protege a Cozinha do Inferno.",
+    "curiosidades": "Seu 'sentido de radar' permite que ele 'veja' o mundo ao seu redor através de vibrações e ondas sonoras, criando um mapa mental 3D.",
+    "poderes": [
+        "Sentidos sobre-humanos (audição, tato, olfato, paladar)",
+        "Sentido de radar (ecolocalização)",
+        "Agilidade e reflexos de nível olímpico",
+        "Mestre em artes marciais"
+    ],
+    "inimigos": [
+        "Rei do Crime (Wilson Fisk)",
+        "Mercenário",
+        "O Tentáculo",
+        "Elektra (às vezes)"
+    ],
+    "imagem": "https://sm.ign.com/ign_br/screenshot/default/daredevil-stories_8shy.jpg",
+    "quadrinhos": ["A Queda de Murdock", "O Homem Sem Medo", "Demolidor: Amarelo"],
+    "jogos": ["Daredevil (GBA)", "Marvel's Spider-Man (menção)", "Marvel Ultimate Alliance"]
+ },
+ {
+    "nome": "Pantera Negra",
+    "historia": "T'Challa é o rei e protetor da nação africana tecnologicamente avançada de Wakanda. Após consumir a Erva em Forma de Coração, ele ganha habilidades aprimoradas e assume o manto do Pantera Negra, um título passado por gerações.",
+    "curiosidades": "O traje do Pantera Negra é feito de Vibranium, um metal que absorve vibrações e energia cinética, tornando-o à prova de balas.",
+    "poderes": [
+        "Força, velocidade e agilidade aprimoradas",
+        "Sentidos aguçados",
+        "Intelecto genial",
+        "Mestre em combate desarmado e com armas"
+    ],
+    "inimigos": [
+        "Killmonger",
+        "Ulysses Klaue",
+        "M'Baku (anteriormente)",
+        "Homem-Gorila"
+    ],
+    "imagem": "https://www.planocritico.com/wp-content/uploads/2024/02/ultimate_pantera_negra_2024_marvel_comics_a_plano_critico.jpg",
+    "quadrinhos": ["A Fúria do Pantera", "Quem é o Pantera Negra?", "Uma Nação Sob Nossos Pés"],
+    "jogos": ["Marvel's Avengers: War for Wakanda", "Marvel Ultimate Alliance 3", "LEGO Marvel Super Heroes 2"]
+ },
+ {
+    "nome": "Wolverine",
+    "historia": "Nascido como James Howlett, Logan é um mutante com fator de cura acelerado, sentidos aguçados e garras de osso retráteis. Seu esqueleto foi fundido com Adamantium, um metal indestrutível, tornando-o uma arma viva e membro dos X-Men.",
+    "curiosidades": "Devido ao seu fator de cura, seu envelhecimento é extremamente lento, fazendo com que ele tenha mais de 100 anos de idade.",
+    "poderes": [
+        "Fator de cura regenerativo",
+        "Esqueleto de Adamantium",
+        "Garras retráteis",
+        "Força e resistência sobre-humanas"
+    ],
+    "inimigos": [
+        "Dentes-de-Sabre",
+        "Magneto",
+        "William Stryker",
+        "Lady Letal"
+    ],
+    "imagem": "https://geekproject.com.br/wp-content/uploads/2025/02/image-13.png",
+    "quadrinhos": ["Eu, Wolverine", "Arma X", "Inimigo do Estado"],
+    "jogos": ["X-Men Origins: Wolverine", "Marvel's Wolverine (futuro)", "série Marvel vs. Capcom"]
+ },
+ {
+    "nome": "Superman",
+    "historia": "Nascido como Kal-El no planeta Krypton, ele foi enviado à Terra por seus pais antes da destruição de seu mundo. Criado como Clark Kent, ele descobre seus poderes extraordinários e se torna o Superman, um farol de esperança e justiça.",
+    "curiosidades": "A fraqueza mais famosa do Superman é a Kryptonita, fragmentos radioativos de seu planeta natal que podem enfraquecê-lo e até matá-lo.",
+    "poderes": [
+        "Força, velocidade e invulnerabilidade sobre-humanas",
+        "Voo",
+        "Visão de calor e visão de raio-x",
+        "Sopro congelante"
+    ],
+    "inimigos": [
+        "Lex Luthor",
+        "Brainiac",
+        "General Zod",
+        "Apocalypse"
+    ],
+    "imagem": "https://portalpopline.com.br/wp-content/uploads/2023/04/8-quadrinhos-superman-85-anos.jpg",
+    "quadrinhos": ["A Morte do Superman", "Superman: Entre a Foice e o Martelo", "All-Star Superman"],
+    "jogos": ["Injustice: Gods Among Us", "Superman: Shadow of Apokolips", "DC Universe Online"]
+ },
+ {
+    "nome": "Batman",
+    "historia": "Após testemunhar o assassinato de seus pais quando criança, o bilionário Bruce Wayne jurou livrar Gotham City do crime. Ele treinou até o auge da perfeição física e mental e, usando um traje de morcego, tornou-se o vigilante noturno Batman.",
+    "curiosidades": "Batman tem uma regra estrita de não matar seus inimigos, acreditando que isso o tornaria igual aos criminosos que combate.",
+    "poderes": [
+        "Intelecto de nível genial e detetive mestre",
+        "Pico da condição física humana",
+        "Mestre em artes marciais",
+        "Vasto arsenal de gadgets e tecnologia"
+    ],
+    "inimigos": [
+        "Coringa",
+        "Pinguim",
+        "Charada",
+        "Duas-Caras"
+    ],
+    "imagem": "https://img.odcdn.com.br/wp-content/uploads/2024/06/imagem_2024-06-17_151110069.jpg",
+    "quadrinhos": ["O Cavaleiro das Trevas", "A Piada Mortal", "Batman: Ano Um"],
+    "jogos": ["série Batman: Arkham", "Injustice 2", "Telltale's Batman"]
+ },
+ {
+    "nome": "Flash",
+    "historia": "Barry Allen, um cientista forense, foi atingido por um raio e banhado em produtos químicos, ganhando uma conexão com a 'Força de Aceleração'. Ele se tornou o Flash, o homem mais rápido do mundo, e um herói dedicado a proteger Central City.",
+    "curiosidades": "Sua velocidade permite que ele vibre através de objetos sólidos, viaje no tempo e até mesmo entre dimensões.",
+    "poderes": [
+        "Velocidade sobre-humana",
+        "Reflexos e agilidade aprimorados",
+        "Cura acelerada",
+        "Capacidade de viajar no tempo"
+    ],
+    "inimigos": [
+        "Flash Reverso",
+        "Capitão Frio",
+        "Gorila Grodd",
+        "Zoom"
+    ],
+    "imagem": "https://portalpopline.com.br/wp-content/uploads/2023/04/the-flash-3-hqs-para-ler-antes-do-filme-entrar-ritmo-heroi.jpg",
+    "quadrinhos": ["Flashpoint (Ponto de Ignição)", "Crise nas Infinitas Terras", "O Renascimento de Barry Allen"],
+    "jogos": ["Injustice: Gods Among Us", "DC Universe Online", "LEGO Batman 3: Beyond Gotham"]
+ },
+ {
+    "nome": "Cyborg",
+    "historia": "Victor Stone, um atleta promissor, sofreu um acidente terrível. Para salvar sua vida, seu pai, um cientista da S.T.A.R. Labs, o fundiu com tecnologia alienígena avançada, transformando-o no Cyborg, um herói meio-homem, meio-máquina.",
+    "curiosidades": "Seu corpo cibernético pode se transformar para criar várias armas e ferramentas, e ele pode interagir com qualquer forma de tecnologia.",
+    "poderes": [
+        "Força e durabilidade sobre-humanas",
+        "Intelecto de gênio e tecnopatia",
+        "Canhões de energia e armamento sônico",
+        "Voo e teletransporte (Boom Tubes)"
+    ],
+    "inimigos": [
+        "Darkseid",
+        "Grid",
+        "Gizmo",
+        "Ron Evers"
+    ],
+    "imagem": "https://static0.srcdn.com/wordpress/wp-content/uploads/Cyborg-New-521.jpg",
+    "quadrinhos": ["Os Novos Titãs: O Contrato de Judas", "Crise nas Infinitas Terras", "Cyborg (2015)"],
+    "jogos": ["Injustice 2", "DC Universe Online", "LEGO DC Super-Villains"]
+ },
+ {
+    "nome": "Aquaman",
+    "historia": "Arthur Curry é o filho de um faroleiro e da rainha de Atlântida. Como herdeiro do trono do reino subaquático, ele possui habilidades sobre-humanas e a capacidade de se comunicar com a vida marinha, atuando como o protetor dos oceanos.",
+    "curiosidades": "Seu tridente, o Tridente de Netuno, é uma das sete relíquias de Atlântida e concede ao seu portador o poder de comandar os mares.",
+    "poderes": [
+        "Força e durabilidade sobre-humanas",
+        "Telepatia marinha (comunicação com a vida aquática)",
+        "Adaptação anfíbia (respirar debaixo d'água)",
+        "Natação em alta velocidade"
+    ],
+    "inimigos": [
+        "Arraia Negra",
+        "Mestre do Oceano (Orm)",
+        "O Valo",
+        "Rei Nereus"
+    ],
+    "imagem": "https://ovicio.com.br/wp-content/uploads/2025/01/20250111-image-3-555x555.png",
+    "quadrinhos": ["O Trono de Atlântida", "A Morte de um Príncipe", "Sub-Diego"],
+    "jogos": ["Injustice: Gods Among Us", "Aquaman: Battle for Atlantis", "LEGO Batman 2: DC Super Heroes"]
+ },
+ {
+    "nome": "Arqueiro Verde",
+    "historia": "O bilionário playboy Oliver Queen ficou preso em uma ilha deserta por anos. Lá, ele aprendeu a sobreviver e se tornou um mestre arqueiro. Ao retornar para Star City, ele se torna o Arqueiro Verde, um vigilante que luta contra a corrupção.",
+    "curiosidades": "Ele usa uma variedade de flechas especiais, incluindo flechas com luvas de boxe, explosivos, redes e até mesmo Kryptonita.",
+    "poderes": [
+        "Mestre arqueiro",
+        "Pico da condição física humana",
+        "Mestre em artes marciais e acrobacias",
+        "Uso de flechas com truques"
+    ],
+    "inimigos": [
+        "Merlyn (Arqueiro Negro)",
+        "Exterminador (Slade Wilson)",
+        "Conde Vertigo",
+        "Prometheus"
+    ],
+    "imagem": "https://t.ctcdn.com.br/-lTZp1GZHboghzjBSs549yZf0GM=/1200x675/smart/i888317.jpeg",
+    "quadrinhos": ["Os Caçadores", "Arqueiro Verde: Ano Um", "O Espírito da Flecha"],
+    "jogos": ["Injustice 2", "DC Universe Online", "LEGO Batman 3: Beyond Gotham"]
+ },
+ {
+    "nome": "Mulher-Maravilha",
+    "historia": "Princesa Diana de Themyscira, uma ilha de amazonas, foi criada a partir do barro por sua mãe, a Rainha Hipólita, e recebeu dons dos deuses do Olimpo. Ela deixa sua casa para se tornar uma embaixadora da paz no mundo dos homens.",
+    "curiosidades": "Seus braceletes da submissão são indestrutíveis e foram feitos dos restos do escudo de Zeus, Aegis. Eles podem desviar balas e outras formas de ataque.",
+    "poderes": [
+        "Força, velocidade e durabilidade sobre-humanas",
+        "Voo",
+        "Sabedoria e estratégia de batalha",
+        "Laço da Verdade e Braceletes da Submissão"
+    ],
+    "inimigos": [
+        "Ares",
+        "Mulher-Leopardo (Cheetah)",
+        "Circe",
+        "Doutor Psycho"
+    ],
+    "imagem": "https://boletimnerd.com.br/wp-content/uploads/2017/06/Mulher-Maravilha-nos-Quadrinhos-12-HQs-para-Conhecer-a-Princesa-Amazona-1.jpg",
+    "quadrinhos": ["Deuses e Mortais", "O Círculo", "Hiketeia"],
+    "jogos": ["Injustice: Gods Among Us", "Wonder Woman (2017)", "DC Universe Online"]
+ },
+ {
+    "nome": "Shazam",
+    "historia": "O jovem órfão Billy Batson recebe de um antigo mago o poder de se transformar em um super-herói adulto ao dizer a palavra mágica 'SHAZAM!'. Ele ganha a sabedoria de Salomão, a força de Hércules, a resistência de Atlas, o poder de Zeus, a coragem de Aquiles e a velocidade de Mercúrio.",
+    "curiosidades": "A palavra 'SHAZAM' é um acrônimo dos nomes das seis figuras mitológicas que lhe concedem seus poderes.",
+    "poderes": [
+        "Força e invulnerabilidade sobre-humanas",
+        "Voo e supervelocidade",
+        "Manipulação de eletricidade",
+        "Magia e feitiçaria"
+    ],
+    "inimigos": [
+        "Adão Negro",
+        "Doutor Silvana",
+        "Os Sete Pecados Mortais",
+        "Mister Mind"
+    ],
+    "imagem": "https://cebolaverde.com.br/wp-content/uploads/2023/03/Shazam.png",
+    "quadrinhos": ["O Poder de Shazam!", "Shazam! (Novos 52)", "Superman/Shazam: Primeiro Trovão"],
+    "jogos": ["Injustice 2", "Mortal Kombat vs. DC Universe", "LEGO DC Super-Villains"]
+ },
+ {
+    "nome": "Lanterna Verde",
+    "historia": "Hal Jordan, um piloto de testes, foi escolhido por um anel de poder de um alienígena moribundo para se juntar à Tropa dos Lanternas Verdes, uma força policial intergaláctica. O anel cria construtos de energia sólida baseados na força de vontade do usuário.",
+    "curiosidades": "A maior fraqueza dos anéis de poder dos Lanternas Verdes é a cor amarela, que representa o medo e pode anular seu poder.",
+    "poderes": [
+        "Anel de poder que cria construtos de energia",
+        "Voo e sobrevivência no espaço",
+        "Geração de campos de força",
+        "Tradução universal"
+    ],
+    "inimigos": [
+        "Sinestro",
+        "Parallax",
+        "Atrocitus",
+        "Nekron"
+    ],
+    "imagem": "https://i0.wp.com/www.portaldonerd.com.br/wp-content/uploads/2020/06/lanterna-verde-1504622200577_v2_1920x1080.jpg",
+    "quadrinhos": ["Crepúsculo Esmeralda", "A Noite Mais Densa", "Guerra dos Anéis"],
+    "jogos": ["Green Lantern: Rise of the Manhunters", "Injustice 2", "Mortal Kombat vs. DC Universe"]
+ }
+ ]

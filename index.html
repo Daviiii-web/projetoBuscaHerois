@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Buscador de Heróis</title>
+</head>
+<body>
+    <header>
+        <h1>Busque curiosidades sobre seu herói favorito</h1>
+        <div>
+            <input type="text" placeholder="Digite o nome de um herói">
+            <button id="botao-busca">Buscar</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="card-container">
+            <article class="card initial-card">
+                <h2>Seu Guia de Super-Heróis</h2>
+                 <p>Digite o nome de um herói na busca para ver sua história, poderes e curiosidades. <br> Experimente buscar por "todos" para ver a lista completa!</p>
+            </article>
+        </section>
+    </main>
+
+
+    <footer class="footer">
+        <ul class="footer-links">
+            <li><a href="https://github.com/Daviiii-web" target="_blank">Github</a></li>
+            <li><a href="https://www.linkedin.com/in/davi-felipe-2414a9219/" target="_blank">Linkedin</a></li>
+            <li><a href="https://www.instagram.com/davisantos_6/" target="_blank">Instagram</a></li>
+        </ul>
+        <p class="footer-credit">Feito por Davi Felipe</p>
+    </footer>
+
+
+
+    
+    <!-- Estrutura do Modal (inicialmente escondida) -->
+    <div id="hero-modal" class="modal-overlay">
+        <div class="modal-content">
+            <button class="modal-close-button">&times;</button>
+            <div id="modal-body">
+                <!-- O conteúdo do herói será inserido aqui pelo JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
